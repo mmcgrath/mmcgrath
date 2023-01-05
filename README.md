@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m Michael McGrath. I was born and raised in Northern Ireland and lived there until I was ~40; then I moved to Fort Collins, Colorado where I now live and work.
+- 💬 I am on Mastodon at https://mcgrath.club/@Michael
+- 🛩️ I used to blog about aviation at https://irish.aero/ but don't any more as I sold my plane in mid-2022!
+
 <!--
 **mmcgrath/mmcgrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
